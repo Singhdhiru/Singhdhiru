@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Singhdhiru</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://www.opindia.com/2022/10/kantara-movie-review-hinduism-dharma-civilisation/">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
      
 - 📫 How to reach me **dhirajsingh1224233@gmail.com**
 
