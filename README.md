@@ -4,6 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
      
 - 📫 How to reach me **dhirajsingh1224233@gmail.com**
+- you can knnw me better <a herf ="https://drive.google.com/file/d/1a89h7R-hyxvuJC0SUSbQdLIUfj6EOKLn/view?usp=sharing" resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
