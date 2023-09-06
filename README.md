@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
      
 - 📫 How to reach me **dhirajsingh1224233@gmail.com**
-- you can knnw me better <a href="https://drive.google.com/drive/folders/1gartTH6de6UWXi2zQmIIBSsONb0kq7_H">resume</a>
+- you can know me better <a href="https://drive.google.com/drive/folders/1gartTH6de6UWXi2zQmIIBSsONb0kq7_H">resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dhirajsingh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhirajsingh2002" height="30" width="40" /></a>
