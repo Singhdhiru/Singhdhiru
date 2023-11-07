@@ -5,7 +5,7 @@
      
 - 📫 How to reach me  **dhirajsingh1224233@gmail.com** 
 - you can know me better <a href="https://drive.google.com/drive/folders/1gartTH6de6UWXi2zQmIIBSsONb0kq7_H">resume </a>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/@dhirajsingh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhirajsingh2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhiraj singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj singh" height="30" width="40" /></a>
