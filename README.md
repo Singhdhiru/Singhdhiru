@@ -1,5 +1,5 @@
 <img src="https://d2o2utebsixu4k.cloudfront.net/media/images/92c07ca5-d073-480c-9016-91bc7357207b.png" alt="Cover picture" width="950" >
-<h1 align="center">Hi👋,I'm Singhdhiru</h1>
+<h1 align="center">Hi👋, I'm Singhdhiru</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
      
