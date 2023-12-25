@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
      
-- 📫 How to reach me **dhirajsingh1224233@gmail.com** 
+- 📫 How to reach me**dhirajsingh1224233@gmail.com** 
 - you can know me better <a href="https://drive.google.com/drive/folders/1gartTH6de6UWXi2zQmIIBSsONb0kq7_H">resume </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
