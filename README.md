@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2021-02-19-your-guide-developer-experience-week-github-infocus%2F&psig=AOvVaw3cOZ6De0-xyS-0pKMtEQbA&ust=1717248151965000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDAsJT-t4YDFQAAAAAdAAAAABAK" alt="Cover picture" width="950" >
+<img src="https://www.git-tower.com/blog/media/pages/posts/git-for-designers/b13966b2e8-1717163635/header@1920w.png" alt="Cover picture" width="950" >
 <h1 align="center">Hi👋,I'm Singhdhiru</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
