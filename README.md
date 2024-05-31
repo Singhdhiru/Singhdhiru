@@ -15,10 +15,20 @@
 <a href="https://www.leetcode.com/dhirajsingh1224233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhirajsingh1224233" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Profile on Coding Paltforms:</h3>
+<!-- <h3 align="left">Profile on Coding Paltforms:</h3>
 <a align="left" href="https://leetcode.com/u/dhirajsingh1224233/" target="_blank">LeetCode🏆 </a>
 <a align="center" href="https://www.geeksforgeeks.org/user/dhirajsingh1224233/" target="_blank">GFG 🏆  </a>
-<a align="right" href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360(Coding Ninja) 🏆  </a>
+<a align="right" href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360(Coding Ninja) 🏆  </a> -->
+<h3 align="left">Profile on Coding Platforms:</h3>
+<div style="text-align: left;">
+  <a href="https://leetcode.com/u/dhirajsingh1224233/" target="_blank">LeetCode🏆</a>
+</div>
+<div style="text-align: center;">
+  <a href="https://www.geeksforgeeks.org/user/dhirajsingh1224233/" target="_blank">GFG 🏆</a>
+</div>
+<div style="text-align: right;">
+  <a href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360 (Coding Ninja) 🏆</a>
+</div>
 <hr>
 <h3 align="left">Languages and Tools:</h3> 
 
