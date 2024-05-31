@@ -16,9 +16,9 @@
 </p>
 <hr>
 <h3 align="left">Profile on Coding Paltforms:</h3>
-<a href="https://leetcode.com/u/dhirajsingh1224233/" target="_blank">LeetCode🏆 </a>
-<a href="https://www.geeksforgeeks.org/user/dhirajsingh1224233/" target="_blank">GFG 🏆  </a>
-<a href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360(Coding Ninja) 🏆  </a>
+<a align="left" href="https://leetcode.com/u/dhirajsingh1224233/" target="_blank">LeetCode🏆 </a>
+<a align="center" href="https://www.geeksforgeeks.org/user/dhirajsingh1224233/" target="_blank">GFG 🏆  </a>
+<a align="right" href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360(Coding Ninja) 🏆  </a>
 <hr>
 <h3 align="left">Languages and Tools:</h3> 
 
