@@ -1,6 +1,6 @@
 <img src="https://www.git-tower.com/blog/media/pages/posts/git-for-designers/b13966b2e8-1717163635/header@1920w.png" alt="Cover picture" width="950" >
 <h1 align="center">Hi👋,I'm Singhdhiru </h1>
-<h3 align="center">A passionate Software Engineer from India </h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
      
 - 📫 How to reach me**dhirajsingh1224233@gmail.com** 
