@@ -1,35 +1,94 @@
-<img src="https://www.git-tower.com/blog/media/pages/posts/git-for-designers/b13966b2e8-1717163635/header@1920w.png" alt="Cover picture" width="950" >
-<h1 align="center">Hi👋,I'm Singhdhiru</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" width="400" >
-     
-- 📫 How to reach me**dhirajsingh1224233@gmail.com** 
-- you can know me better <a href="https://drive.google.com/drive/folders/1gartTH6de6UWXi2zQmIIBSsONb0kq7_H">resume </a>
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://twitter.com/@dhirajsingh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhirajsingh2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhiraj singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj singh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dhiraj singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhiraj singh" height="30" width="40" /></a>
-<a href="https://fb.com/dhiraj singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhiraj singh" height="30" width="40" /></a>
-<a href="https://instagram.com/dhirajsingh730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhirajsingh730" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhirajsingh1224233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhirajsingh1224233" height="30" width="40" /></a>
-</p>
-<hr>
-<!-- <h3 align="left">Profile on Coding Paltforms:</h3>
-<a align="left" href="https://leetcode.com/u/dhirajsingh1224233/" target="_blank">LeetCode🏆 </a>
-<a align="center" href="https://www.geeksforgeeks.org/user/dhirajsingh1224233/" target="_blank">GFG 🏆  </a>
-<a align="right" href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360(Coding Ninja) 🏆  </a> -->
-<h3 align="left">Profile on Coding Platforms:</h3>
-<div style="text-align: left;">
-  <a href="https://leetcode.com/u/dhirajsingh1224233/" target="_blank">LeetCode🏆</a>
-</div>
-<div style="text-align: center;">
-  <a href="https://www.geeksforgeeks.org/user/dhirajsingh1224233/" target="_blank">GFG 🏆</a>
-</div>
-<div style="text-align: right;">
-  <a href="https://www.naukri.com/code360/profile/Singhdhiru" target="_blank">Code360 (Coding Ninja) 🏆</a>
-</div>
-<hr>
-<h3 align="left">Languages and Tools:</h3> 
+# Hello, I'm Dhiru Singh! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Singhdhiru&style=flat-square)
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+## About Me
+I'm a passionate software developer with a keen interest in web development, data science, and open source contributions. I love learning new technologies and sharing my knowledge with others.
+- 💼 Currently working at [Edhate Consulting Pvt Ltd(Delhi)](https://edhateconsulting.com)
+- 📚 Always eager to learn and grow
+- 🌱 Currently exploring AI and machine learning
+- 💬 Ask me about web development, Python, and JavaScript
+- 📫 Reach me at [dhirajsingh1224233@gmail.com](mailto:dhirajsingh1224233@gmail.com)
+
+## Resume
+<details>
+<summary>View My Resume</summary>
+
+### Professional Summary
+Dedicated Software Developer with expertise in web technologies, programming languages, and cloud platforms. Proven track record of developing efficient, scalable solutions and contributing to open-source projects.
+
+### Work Experience
+#### Associate Consultant | Edhate Consulting Pvt Ltd, Delhi
+ - Design and implement custom pages in Business Central using AL language for enhanced UI/UX functionality
+ - Structured and optimized database tables following BC best practices for efficient data management
+ - Created AL Report Extensions to generate detailed business reports with data visualization capabilities
+
+
+### Education
+#### Bachelor of Technology in Computer Science
+- RGPV University Bhopal, MP
+- Graduation Year: 2024
+- CGPA: 8.04
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Cloud Computing
+
+### Technical Skills
+- **Programming Languages**: JavaScript, Python, TypeScript, C++, C
+- **Web Technologies**: React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, Linux
+- **Cloud & DevOps**: AWS, Docker, Kubernetes
+
+### Projects
+#### [MultiThreaded-Proxy-Server](https://github.com/Singhdhiru/MultiThreadeadProxyServer)
+- Developed a high-performance C proxy server with multi-threading
+- Implemented socket programming for network communication
+- Designed system architecture for concurrent request handling
+
+</details>
+
+## Coding Profile
+[![Static Badge](https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=leetcode)](https://leetcode.com/u/dhirajsingh1224233/)
+[![Static Badge](https://img.shields.io/badge/GeeksforGeeks-green?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/dhirajsingh1224233/)
+[![Static Badge](https://img.shields.io/badge/CodeChef-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/singhdhiru)
+[![Static Badge](https://img.shields.io/badge/Codeforces-red?style=flat-square&logo=codeforces)](https://codeforces.com/profile/dhirajsingh)
+
+## Skills
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/C-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+### Database
+![Static Badge](https://img.shields.io/badge/SQL-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/MYSQL-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square)
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Tools and Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Github-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Postman-brightgreen?style=flat-square)
+
+## Projects
+### [MultiThreaded-Proxy-Server](https://github.com/Singhdhiru/MultiThreadeadProxyServer)
+- Developed a high-performance C proxy server with multi-threading to manage concurrent client connections.**
+- Implemented socket programming for streamlined client-server network communication.**
+- Designed system architecture for simultaneous request handling with stable connection management.**
+- Skills ->>  C, Linux, Operating System, LRU Algorithm**
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajsingh730/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Dhirajsingh2002)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Singhdhiru)
+
+---
+⭐️ From [Singhdhiru](https://github.com/Singhdhiru)
+
