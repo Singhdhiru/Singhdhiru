@@ -2,7 +2,7 @@
 # Hi there! I'm Dhiraj Singh 👋🚀
 
 ## 🌟 About Me
-I'm a passionate software developer with a keen interest in web development, data science, and open source contributions. I love learning new technologies and sharing my knowledge with others.
+I'm a passionate software developer with a keen interest in web development, data science, and open source contributions. I love learning new technologies and sharing my knowledge with others .
 - 📚 Always eager to learn and grow
 - 🌱 Currently exploring AI and machine learning
 - 💬 Ask me about web development, Python, and JavaScript
