@@ -25,20 +25,31 @@ I'm a passionate "Software Developer" with a keen interest in web development, d
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OOPS-brightgreen?style=flat-square&logo=String&color=Green)
+
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-brightgreen?style=flat-square&logo=String&color=Green)
+![Static Badge](https://img.shields.io/badge/Mongoose-brightgreen?style=flat-square&logo=String&color=Green)
+
+
 
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ExpressJs-brightgreen?style=flat-square&logo=String&color=Green)
+![Static Badge](https://img.shields.io/badge/NextJS-brightgreen?style=flat-square&logo=String&color=Green)
+
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-brightgreen?style=flat-square&logo=String&color=Green)
+
 
 ## 🚀 Featured Projects
 
