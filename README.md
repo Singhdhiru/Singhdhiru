@@ -7,7 +7,23 @@ I'm a passionate "Software Developer" with a keen interest in web development, d
 - 🌱 Currently exploring AI and machine learning
 - 💬 Ask me about web development, Python, and JavaScript
 - 📫 Reach me at [dhirajsingh1224233@gmail.com](mailto:dhirajsingh1224233@gmail.com)
+- 
+## 🚀 Featured Projects
 
+### [Secure Voting Application](https://github.com/Singhdhiru/Secure-Voting-Application)
+- Engineered a secure voting system using JWT authentication, bcrypt password hashing, and Aadhar verification
+- Implemented role-based access control separating admin and voter privileges with MongoDB schemas
+- Developed RESTful APIs for user authentication, candidate management, and real-time vote counting
+
+### [ExpressBlogify](https://github.com/Singhdhiru/ExpressBlogify)
+- Developed a RESTful blogging platform with MongoDB Atlas integration and comprehensive data modeling
+- Implemented relational schema design with Mongoose references connecting posts, comments, and likes
+- Engineered efficient API endpoints for content creation, interaction tracking, and nested data retrieval
+
+### [MultiThreaded-Proxy-Server](https://github.com/Singhdhiru/MultiThreadeadProxyServer)
+- High-performance C proxy server with multi-threading
+- Advanced socket programming implementation
+- Concurrent request handling architecture
 
 ## 💼 Current Work
 - **Associate Consultant** at [Edhate Consulting Pvt Ltd](https://edhateconsulting.com)
@@ -50,13 +66,6 @@ I'm a passionate "Software Developer" with a keen interest in web development, d
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-brightgreen?style=flat-square&logo=String&color=Green)
 
-
-## 🚀 Featured Projects
-
-### [MultiThreaded-Proxy-Server](https://github.com/Singhdhiru/MultiThreadeadProxyServer)
-- High-performance C proxy server with multi-threading
-- Advanced socket programming implementation
-- Concurrent request handling architecture
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Singhdhiru&theme=radical&show_icons=true)
