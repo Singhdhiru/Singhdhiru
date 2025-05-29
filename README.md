@@ -16,7 +16,7 @@ I'm a passionate "Software Developer" with a keen interest in web development, d
 - Developed RESTful APIs for user authentication, candidate management, and real-time vote counting
 
 ### [ExpressBlogify](https://github.com/Singhdhiru/ExpressBlogify)
-- Developed a RESTful blogging platform with MongoDB Atlas integration and comprehensive data modeling
+- Developed a RESTful blogging platform with MongoDB Atlas integration and comprehensive data  modeling
 - Implemented relational schema design with Mongoose references connecting posts, comments, and likes
 - Engineered efficient API endpoints for content creation, interaction tracking, and nested data retrieval
 
