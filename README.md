@@ -1,5 +1,5 @@
 
-# Hi there! I'm Dhiraj Singh 👋🚀
+# Hi there! I'm Dhiraj Singh👋🚀
 
 ## 🌟 About Me
 I'm a passionate "Software Developer" with a keen interest in web development, data science, and open source contributions. I love learning new technologies and sharing my knowledge with others .
