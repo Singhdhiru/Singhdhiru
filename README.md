@@ -1,6 +1,6 @@
 
 # Dhiraj Kumar Singh
-## Senior Software Engineer | Full-Stack Developer | Backend Specialist
+## Software Engineer | Full-Stack Developer | Backend Specialist
 
 <div align="center">
   
