@@ -19,7 +19,7 @@ Software Engineer with **2+ years** of production experience building scalable w
 
 ```typescript
 const dhiraj = {
-  role: "Senior Software Engineer",
+  role: "Software Engineer",
   location: "Noida, India",
   experience: "2+ years",
   specialization: ["Backend Development", "API Design", "Database Architecture"],
