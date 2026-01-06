@@ -47,19 +47,25 @@ const dhiraj = {
 
 ## 🚀 Featured Projects
 
-### 🏠 [HeirMaids - Professional Service Platform](https://github.com/Singhdhiru)
-**Full-Stack Marketplace | 2000+ Active Users**
+### 🏠 [HeirMaids - Premium Home Services Platform](https://github.com/Singhdhiru)
+**Next-Gen On-Demand Marketplace | 🚀 2,000+ Active Users**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+> A high-performance monorepo architecture delivering seamless connections between homeowners and verified service professionals.
 
 ```javascript
-// Architecture Overview
-const platform = {
-  frontend: "React + TailwindCSS",
-  backend: "Node.js + Express.js",
-  database: "MongoDB with Aggregation Pipelines",
-  deployment: "Docker + CI/CD + Cloud Hosting",
-  realtime: "WebSocket Integration"
+const architecture = {
+  client: "React 19 + Vite + Tailwind v4 (Glassmorphism UI)",
+  admin: "Dedicated Dashboard with Real-time Analytics",
+  server: "Node.js Microservices + Express",
+  data: "MongoDB Atlas + Redis Caching",
+  devOps: "Docker Containerization + CI/CD Pipelines"
 };
-```
 
 **🎯 Impact:**
 - Connected **2000+ customers** with verified service providers
