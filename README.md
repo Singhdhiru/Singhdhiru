@@ -74,47 +74,70 @@ const architecture = {
 - Built comprehensive admin dashboard with analytics and insights
 
 **🛠 Tech Stack:** React, Node.js, Express.js, MongoDB, TailwindCSS, Docker, WebSocket
+```
+## 📊 Performance Metrics
+
+<div align="center">
+
+| Metric | Achievement |
+|--------|-------------|
+| **Platform Uptime** | 99.9% |
+| **API Response Time** | <200ms |
+| **Active Users Served** | 2000+ |
+| **Daily API Requests** | 10K+ |
+| **Code Coverage** | 85%+ |
+| **Performance Optimization** | 80% faster workflows |
+
+</div>
 
 ---
 
-### 🗳️ [Secure Voting Application](https://github.com/Singhdhiru/Secure-Voting-Application)
-**Enterprise Security | Authentication & Authorization**
+### 🗳️ **Secure Voting Application**
+🔗 https://github.com/Singhdhiru/Secure-Voting-Application  
+**Security-First Backend System | Auth, Identity & Access Control**
 
-Built production-ready voting system with military-grade security features:
-- **JWT Authentication** with refresh token mechanism
-- **Bcrypt Password Hashing** with salt rounds
-- **Aadhar Verification** integration for identity validation
-- **Role-based Access Control** (RBAC) for admin/voter separation
+Designed and implemented a **production-grade voting platform** with a strong focus on **security, integrity, and access isolation**.
+
+- Implemented **JWT-based authentication** with refresh tokens to prevent session hijacking
+- Secured credentials using **Bcrypt hashing with configurable salt rounds**
+- Integrated **Aadhaar-based identity verification** to ensure voter authenticity
+- Enforced **Role-Based Access Control (RBAC)** to strictly separate admin and voter privileges
+- Designed APIs to prevent **double voting, unauthorized access, and data tampering**
 
 **🛠 Tech Stack:** Node.js, Express.js, MongoDB, JWT, Bcrypt
 
 ---
 
-### 📝 [ExpressBlogify](https://github.com/Singhdhiru/ExpressBlogify)
-**Content Management System | RESTful Architecture**
+### 📝 **ExpressBlogify**
+🔗 https://github.com/Singhdhiru/ExpressBlogify  
+**Scalable CMS | RESTful API Design**
 
-Engineered a scalable blogging platform with advanced data modeling:
-- **Relational Schema Design** with Mongoose references
-- **Optimized API Endpoints** for content management
-- **Nested Data Retrieval** with population strategies
-- **MongoDB Atlas Integration** for cloud database management
+Built a **clean, scalable content management system** emphasizing **data modeling, API performance, and maintainability**.
+
+- Designed **relational data schemas** using Mongoose references for users, posts, and comments
+- Developed **RESTful APIs** for CRUD operations with clean separation of concerns
+- Optimized data access using **nested population strategies**
+- Deployed on **MongoDB Atlas**, enabling reliable cloud-based persistence
 
 **🛠 Tech Stack:** Node.js, Express.js, MongoDB, Mongoose
 
 ---
 
-### ⚡ [MultiThreaded Proxy Server](https://github.com/Singhdhiru/MultiThreadeadProxyServer)
-**System Programming | High Performance**
+### ⚡ **Multi-Threaded Proxy Server**
+🔗 https://github.com/Singhdhiru/MultiThreadeadProxyServer  
+**Low-Level Systems Programming | Concurrency & Networking**
 
-Low-level C implementation showcasing system programming expertise:
-- **Multi-threading** architecture for concurrent request handling
-- **Advanced Socket Programming** with TCP/IP protocols
-- **Memory Management** and performance optimization
-- **POSIX Threads** for scalable connection handling
+Engineered a **high-performance proxy server** in C to demonstrate deep understanding of **OS-level concepts and networking**.
+
+- Built a **multi-threaded architecture** to handle concurrent client requests efficiently
+- Implemented **TCP/IP socket programming** for request forwarding and response handling
+- Managed **thread synchronization and memory allocation** to avoid race conditions
+- Leveraged **POSIX Threads (pthreads)** for scalable and stable concurrency
 
 **🛠 Tech Stack:** C/C++, POSIX Threads, Socket Programming
 
 ---
+
 
 ## 🛠️ Technical Arsenal
 
