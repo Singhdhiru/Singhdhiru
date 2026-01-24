@@ -15,7 +15,7 @@
 
 ## 🎯 Professional Summary
 
-Software Engineer with **2+ years** of production experience building scalable web applications and enterprise solutions. Specialized in **Node.js ecosystem** with expertise in microservices architecture, API development, and database optimization. Currently driving digital transformation at **Edhate Consulting**, delivering Business Central solutions and full-stack platforms serving **2000+ active users**.
+Software Engineer with **2+ years** of Production experience building scalable web applications and enterprise solutions. Specialized in **Node.js ecosystem** with expertise in microservices architecture, API development, and database optimization. Currently driving digital transformation at **Edhate Consulting**, delivering Business Central solutions and full-stack platforms serving **2000+ active users**.
 
 ```typescript
 const dhiraj = {
