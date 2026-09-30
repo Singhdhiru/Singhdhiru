@@ -71,16 +71,6 @@ A systems programming project exploring proxy servers and concurrent request han
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ Voting App
-**JavaScript · Backend development**
-
-A voting application project exploring application logic and backend workflows.
-
-[Explore repository →](https://github.com/Singhdhiru/Voting_App)
-
-</td>
-<td width="50%" valign="top">
-
 ### 📝 Blog App
 **JavaScript · Web development**
 
@@ -97,10 +87,7 @@ A blogging application project focused on content and web application developmen
 
 <br>
 
-- [Todo App](https://github.com/Singhdhiru/Todo-App) — task management application.
 - [DSA with C++](https://github.com/Singhdhiru/DSA-with-c-plus) — data structures and algorithms practice.
-- [STL in Short](https://github.com/Singhdhiru/STL-IN-shot) — C++ Standard Template Library practice.
-- [Web Development Files](https://github.com/Singhdhiru/Web-Development-file) — web development exercises and experiments.
 
 </details>
 
