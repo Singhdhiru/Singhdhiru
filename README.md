@@ -1,141 +1,143 @@
 <div align="center">
 
-# Hi, I'm Dhiraj Singh 👋
+![Dhiraj Singh — Business systems, APIs, and automation](assets/profile-banner.svg)
 
-### Software Engineer · Business Central Developer · Backend Builder
+**BUSINESS CENTRAL & AL** &nbsp; / &nbsp; **BACKEND & FULL STACK** &nbsp; / &nbsp; **CODEX & MCP**
 
-**Turning complex workflows into useful software.**
+<br>
 
-I build APIs, business applications, and reusable AI development skills.<br>
-My interests connect full-stack engineering, Microsoft Dynamics 365 Business Central,<br>
-and thoughtful development with Codex.
+I turn business requirements into applications, integrations, and developer tools.<br>
+My work spans enterprise extensions, web platforms, and AI-assisted engineering.
 
-[![Business Central](https://img.shields.io/badge/Business_Central-0078D4?style=for-the-badge)](https://github.com/Singhdhiru/Edhate-AL-SkillHub)
-[![Backend](https://img.shields.io/badge/Backend_Development-0F172A?style=for-the-badge)](https://github.com/Singhdhiru?tab=repositories)
-[![Codex](https://img.shields.io/badge/Build_with_Codex-10A37F?style=for-the-badge)](#-building-with-codex)
-
-[Explore my projects](https://github.com/Singhdhiru?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/dhirajsingh730/)
+[![Explore](https://img.shields.io/badge/Explore_my_code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhdhiru?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-2563EB?style=for-the-badge)](https://www.linkedin.com/in/dhirajsingh730/)
 
 </div>
 
 ---
 
-## ✦ What I build
-
-| Focus | What interests me |
-| :--- | :--- |
-| **Business applications** | Business Central extensions, AL development, and workflow automation |
-| **Backend systems** | Clear APIs, authentication, data modeling, and maintainable services |
-| **AI development tools** | Reusable skills, integration guidance, and MCP workflows |
-| **Engineering fundamentals** | Algorithms, concurrency, networking, and problem solving |
-
-## 🤖 Building with Codex
-
-I use Codex as a development collaborator to explore ideas, improve code, and build reusable tools. My focus is on giving AI assistants clear context and making their work easier to review.
-
-**Public spotlight → [Edhate AL SkillHub](https://github.com/Singhdhiru/Edhate-AL-SkillHub)**
-
-A shared collection of AI skills for Microsoft Dynamics 365 Business Central development, with installation tools and contribution guidance.
-
-- **API integration:** guidance for REST/JSON integrations, recovery, testing, and handover.
-- **MCP development:** skills for building and testing servers that expose Business Central operations to AI assistants.
-- **Reusable workflows:** packaged references, templates, structural validation, and installer tests.
-
-> Clear context. Reviewable changes. Useful automation.
-
-## 🚀 Selected public projects
+## 01 / Engineering across the stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧩 AL SkillHub
-**AI skills · Business Central · Developer tools**
-
-Reusable guidance for AL integrations and MCP development, with installation and validation tools.
-
-[Explore repository →](https://github.com/Singhdhiru/Edhate-AL-SkillHub)
+### 🧩 Business systems
+Business Central extensions, AL objects, reports, workflows, and business integrations.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ⚡ Multi-Threaded Proxy Server
-**C · Networking · Concurrency**
-
-A systems programming project exploring proxy servers and concurrent request handling.
-
-[Explore repository →](https://github.com/Singhdhiru/MultiThreadeadProxyServer)
+### ⚙️ Application engineering
+Web applications, backend APIs, data models, dashboards, and automation.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📝 Blog App
-**JavaScript · Web development**
-
-A blogging application project focused on content and web application development.
-
-[Explore repository →](https://github.com/Singhdhiru/BLOGAPP)
+### ✨ AI developer tooling
+Codex collaboration, reusable assistant skills, MCP services, and development utilities.
 
 </td>
 </tr>
 </table>
 
+## 02 / Project portfolio
+
+**Anonymous titles. Concrete work.**
+
+The projects below summarize my local development portfolio, including work explored with Codex. Titles are aliases; descriptions omit client identities and implementation details. The descriptions identify broad areas of work; they do not disclose architecture, client workflows, or deployment details.
+
+### Enterprise & integrations
+
+| Project alias | Work represented |
+| :--- | :--- |
+| **Atlas · Business Workflow Extension** | Business application development, reporting, and documentation. |
+| **Relay · Payment Integration** | Payment workflow integration development and review. |
+| **Bridge · CRM & ERP Synchronization** | Business system integration and extension development. |
+| **Ledger · Payroll Automation** | Payroll reporting and workflow automation. |
+| **Signal · Submission Integration Lab** | Submission workflow research and integration exploration. |
+| **Pulse · Internal Operations Extension** | Internal business application development. |
+
+### AI, automation & developer tools
+
+| Project alias | Work represented |
+| :--- | :--- |
+| **Orbit · ERP Assistant Bridge** | AI assistant integration with business applications. |
+| **Scout · Career Research Agent** | Career research and reporting automation. |
+| **Sequence · Numbering API** | Business application API development. |
+| **QueueKit · Scheduling Utility** | Scheduled workflow configuration utilities. |
+| **SkillForge · Assistant Skill Library** | Reusable guidance and tools for AI-assisted development. |
+| **Canvas · AI Application Sandbox** | AI application experiments and development setup. |
+
+### Web products & experiences
+
+| Project alias | Work represented |
+| :--- | :--- |
+| **Haven · Service Marketplace** | Service marketplace application development. |
+| **Console · Operations Dashboard** | Administrative dashboard development. |
+| **Studio · Consulting Website** | Consulting website development and presentation materials. |
+| **Identity · Personal Portfolio** | Personal portfolio web development. |
+| **Summit · Learning Experience Review** | Learning platform review, documentation, and demo preparation. |
+| **Motion · Fitness Web Workspace** | Fitness application exploration. |
+| **PriceLens · Retail Verification Prototype** | Retail application planning and prototype scaffolding. |
+| **Journal · Content Backend** | Content application backend development. |
+
+### Learning & engineering foundations
+
+| Project alias | Work represented |
+| :--- | :--- |
+| **Foundry · AL Practice Extension** | AL development exercises and test project setup. |
+| **Academy · Modular ERP Learning Lab** | Structured business application learning modules. |
+| **Launchpad · Full-Stack Starter** | Reusable full-stack development setup. |
+| **AccessKit · Permission Utility** | Business application permission utilities. |
+| **CheckPoint · Test Sandbox** | AL experiments and test exercises. |
+| **Pathfinder · Technical Preparation** | Technical learning and interview preparation. |
+| **Algorithms · C++ Practice** | Data structures and algorithm practice. |
+
 <details>
-<summary><strong>More projects & practice</strong></summary>
+<summary><strong>Reference workspaces & supporting materials</strong></summary>
 
 <br>
 
-- [DSA with C++](https://github.com/Singhdhiru/DSA-with-c-plus) — data structures and algorithms practice.
+My local setup also includes upstream application source, an AL dependency-inspection MCP tool, scheduling and CMS reference checkouts, backend experiments, ERP customization workspaces, and user-guide materials.
+
+Reference checkouts are learning resources; I do not claim authorship of their upstream implementations. Duplicate copies, generated worktrees, and supporting document folders are grouped with their related projects.
 
 </details>
 
-## 🛠️ My toolkit
+## 03 / How I build with Codex
 
-**Business applications**
+<div align="center">
 
-![AL](https://img.shields.io/badge/AL-0078D4?style=flat-square)
-![Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=flat-square)
+**Understand → Design → Implement → Review → Validate → Document**
 
-**Web & backend**
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=171717)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-171717?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+I use Codex to inspect existing code, clarify requirements, draft implementations, investigate bugs, and prepare documentation. Reusable skills and MCP tools help connect assistant workflows to real development tasks.
 
-**Languages & tools**
+My priorities are clear context, deliberate changes, and validation that matches the work.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square)
+## 04 / Tools I work with
 
-## 🌱 How I like to work
-
-- Start with the problem and understand the workflow.
-- Keep code clear, maintainable, and easy to review.
-- Validate changes and document the decisions that matter.
-- Turn repeated work into reusable tools and skills.
+| Area | Technologies |
+| :--- | :--- |
+| **Enterprise** | Dynamics 365 Business Central · AL · RDLC · API pages · Job queues |
+| **Backend** | Node.js · Express · TypeScript · REST · JSON · XML |
+| **Frontend** | React · Next.js · Tailwind CSS · Vite |
+| **Data** | MongoDB · SQL · PostgreSQL |
+| **AI & automation** | Codex · MCP · OpenAI APIs · Python |
+| **Delivery** | Git · GitHub Actions · Docker · Technical documentation |
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Good software starts with understanding the work.
 
-Interested in backend development, Business Central, or AI developer tooling?<br>
-Explore my public repositories or connect with me.
+**Build clearly. Automate thoughtfully. Keep learning.**
 
-[**GitHub**](https://github.com/Singhdhiru) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/dhirajsingh730/)
+[GitHub](https://github.com/Singhdhiru) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dhirajsingh730/)
 
-<br>
-
-<sub>Learning continuously. Building deliberately. Sharing thoughtfully.</sub>
+<sub>Private project titles are anonymized. No customer data, credentials, or private source code is shared here.</sub>
 
 </div>
