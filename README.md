@@ -6,8 +6,9 @@
 
 <br>
 
-I turn business requirements into applications, integrations, and developer tools.<br>
-My work spans enterprise extensions, web platforms, and AI-assisted engineering.
+**Microsoft Dynamics 365 Business Central Technical Consultant**<br>
+I build AL extensions, integrations, reports, and workflow automation.<br>
+My work also includes web applications and developer tools built with AI assistance.
 
 [![Explore](https://img.shields.io/badge/Explore_my_code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhdhiru?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-2563EB?style=for-the-badge)](https://www.linkedin.com/in/dhirajsingh730/)
@@ -15,6 +16,10 @@ My work spans enterprise extensions, web platforms, and AI-assisted engineering.
 </div>
 
 ---
+
+## About my work
+
+My experience includes Business Central SaaS customization, API and CRM integration, payment workflows, procurement integration, reporting, and data migration. I work across requirements analysis, development, troubleshooting, deployment support, and documentation.
 
 ## 01 / Engineering across the stack
 
@@ -43,84 +48,57 @@ Codex collaboration, reusable assistant skills, MCP services, and development ut
 
 ## 02 / Project portfolio
 
-**27 projects · Four disciplines · One engineering mindset.**
+**28 projects · Enterprise integrations, applications, and developer tools.**
 
-The projects below summarize my local development portfolio, including work explored with Codex. Titles are aliases; descriptions omit client identities and implementation details. The descriptions identify broad areas of work; they do not disclose architecture, client workflows, or deployment details.
+A combined list of my local project work and resume-backed experience. Private project titles use aliases. Entries include implementations, prototypes, research, and learning work; they do not imply that every project is complete or deployed.
 
 ### Enterprise & integrations
 
-<table>
-<tr>
-<td width="50%"><img src="assets/projects/project-01.svg" alt="Atlas · Business Workflow Extension — Business application development, reporting, and documentation." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-02.svg" alt="Relay · Payment Integration — Payment workflow integration development and review." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-03.svg" alt="Bridge · CRM &amp; ERP Synchronization — Business system integration and extension development." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-04.svg" alt="Ledger · Payroll Automation — Payroll reporting and workflow automation." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-05.svg" alt="Signal · Submission Integration Lab — Submission workflow research and integration exploration." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-06.svg" alt="Pulse · Internal Operations Extension — Internal business application development." width="100%"></td>
-</tr>
-</table>
+| Project | Work done / area of work |
+| :--- | :--- |
+| **Atlas · Business Workflow Extension** | Business application development, reporting, and documentation. |
+| **Relay · Payment Integration** | Payment workflow integration development and review. |
+| **Bridge · CRM & ERP Synchronization** | Business system integration and extension development. |
+| **Ledger · Payroll Automation** | Payroll reporting and workflow automation. |
+| **Signal · Submission Integration Lab** | Submission workflow research and integration exploration. |
+| **Pulse · Internal Operations Extension** | Internal business application development. |
+| **Procure · Procurement Integration** | Procurement integration, ERP extensions, and business reporting. |
 
 ### AI, automation & developer tools
 
-<table>
-<tr>
-<td width="50%"><img src="assets/projects/project-07.svg" alt="Orbit · ERP Assistant Bridge — AI assistant integration with business applications." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-08.svg" alt="Scout · Career Research Agent — Career research and reporting automation." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-09.svg" alt="Sequence · Numbering API — Business application API development." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-10.svg" alt="QueueKit · Scheduling Utility — Scheduled workflow configuration utilities." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-11.svg" alt="SkillForge · Assistant Skill Library — Reusable guidance and tools for AI-assisted development." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-12.svg" alt="Canvas · AI Application Sandbox — AI application experiments and development setup." width="100%"></td>
-</tr>
-</table>
+| Project | Work done / area of work |
+| :--- | :--- |
+| **Orbit · ERP Assistant Bridge** | AI assistant integration with business applications. |
+| **Scout · Career Research Agent** | Career research and reporting automation. |
+| **Sequence · Numbering API** | Business application API development. |
+| **QueueKit · Scheduling Utility** | Scheduled workflow configuration utilities. |
+| **SkillForge · Assistant Skill Library** | Reusable guidance and tools for AI-assisted development. |
+| **Canvas · AI Application Sandbox** | AI application experiments and development setup. |
 
 ### Web products & experiences
 
-<table>
-<tr>
-<td width="50%"><img src="assets/projects/project-13.svg" alt="Haven · Service Marketplace — Service marketplace application development." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-14.svg" alt="Console · Operations Dashboard — Administrative dashboard development." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-15.svg" alt="Studio · Consulting Website — Consulting website development and presentation materials." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-16.svg" alt="Identity · Personal Portfolio — Personal portfolio web development." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-17.svg" alt="Summit · Learning Experience Review — Learning platform review, documentation, and demo preparation." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-18.svg" alt="Motion · Fitness Web Workspace — Fitness application exploration." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-19.svg" alt="PriceLens · Retail Verification Prototype — Retail application planning and prototype scaffolding." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-20.svg" alt="Journal · Content Backend — Content application backend development." width="100%"></td>
-</tr>
-</table>
+| Project | Work done / area of work |
+| :--- | :--- |
+| **Haven · Service Marketplace** | Service marketplace application development. |
+| **Console · Operations Dashboard** | Administrative dashboard development. |
+| **Studio · Consulting Website** | Consulting website development and presentation materials. |
+| **Identity · Personal Portfolio** | Personal portfolio web development. |
+| **Summit · Learning Experience Review** | Learning platform review, documentation, and demo preparation. |
+| **Motion · Fitness Web Workspace** | Fitness application exploration. |
+| **PriceLens · Retail Verification Prototype** | Retail application planning and prototype scaffolding. |
+| **Journal · Content Backend** | Content application backend development. |
 
 ### Learning & engineering foundations
 
-<table>
-<tr>
-<td width="50%"><img src="assets/projects/project-21.svg" alt="Foundry · AL Practice Extension — AL development exercises and test project setup." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-22.svg" alt="Academy · Modular ERP Learning Lab — Structured business application learning modules." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-23.svg" alt="Launchpad · Full-Stack Starter — Reusable full-stack development setup." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-24.svg" alt="AccessKit · Permission Utility — Business application permission utilities." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-25.svg" alt="CheckPoint · Test Sandbox — AL experiments and test exercises." width="100%"></td>
-<td width="50%"><img src="assets/projects/project-26.svg" alt="Pathfinder · Technical Preparation — Technical learning and interview preparation." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/projects/project-27.svg" alt="Algorithms · C++ Practice — Data structures and algorithm practice." width="100%"></td>
-</tr>
-</table>
+| Project | Work done / area of work |
+| :--- | :--- |
+| **Foundry · AL Practice Extension** | AL development exercises and test project setup. |
+| **Academy · Modular ERP Learning Lab** | Structured business application learning modules. |
+| **Launchpad · Full-Stack Starter** | Reusable full-stack development setup. |
+| **AccessKit · Permission Utility** | Business application permission utilities. |
+| **CheckPoint · Test Sandbox** | AL experiments and test exercises. |
+| **Pathfinder · Technical Preparation** | Technical learning and interview preparation. |
+| **Algorithms · C++ Practice** | Data structures and algorithm practice. |
 
 <details>
 <summary><strong>Reference workspaces & supporting materials</strong></summary>
