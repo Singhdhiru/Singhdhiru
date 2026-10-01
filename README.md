@@ -46,70 +46,49 @@ Codex collaboration, reusable assistant skills, MCP services, and development ut
 </tr>
 </table>
 
-## 02 / Project portfolio
+## 02 / Selected projects
 
-**28 projects · Enterprise integrations, applications, and developer tools.**
+### 1. Payment & Donation Compliance Integration
 
-A combined list of my local project work and resume-backed experience. Private project titles use aliases. Entries include implementations, prototypes, research, and learning work; they do not imply that every project is complete or deployed.
+**Business Central SaaS · AL · API Integration · XML · Reporting**
 
-### Enterprise & integrations
+- Developed ERP customizations for donation validation, tax calculations, claim generation, and exception handling.
+- Integrated payment and CRM data with Business Central workflows.
+- Implemented reconciliation, reversal processing, and claim lifecycle tracking.
+- Created reports for claim review, payment reconciliation, exceptions, and audit summaries.
 
-| Project | Work done / area of work |
-| :--- | :--- |
-| **Atlas · Business Workflow Extension** | Business application development, reporting, and documentation. |
-| **Relay · Payment Integration** | Payment workflow integration development and review. |
-| **Bridge · CRM & ERP Synchronization** | Business system integration and extension development. |
-| **Ledger · Payroll Automation** | Payroll reporting and workflow automation. |
-| **Signal · Submission Integration Lab** | Submission workflow research and integration exploration. |
-| **Pulse · Internal Operations Extension** | Internal business application development. |
-| **Procure · Procurement Integration** | Procurement integration, ERP extensions, and business reporting. |
+---
 
-### AI, automation & developer tools
+### 2. CRM & Business Central Integration
 
-| Project | Work done / area of work |
-| :--- | :--- |
-| **Orbit · ERP Assistant Bridge** | AI assistant integration with business applications. |
-| **Scout · Career Research Agent** | Career research and reporting automation. |
-| **Sequence · Numbering API** | Business application API development. |
-| **QueueKit · Scheduling Utility** | Scheduled workflow configuration utilities. |
-| **SkillForge · Assistant Skill Library** | Reusable guidance and tools for AI-assisted development. |
-| **Canvas · AI Application Sandbox** | AI application experiments and development setup. |
+**Business Central SaaS · AL · REST APIs · Job Queue · Reporting**
 
-### Web products & experiences
+- Developed integration workflows for customers, sales orders, inventory, invoices, and shipments.
+- Built API pages, staging tables, codeunits, and scheduled processing.
+- Customized sales, purchase, inventory, and finance functionality using AL extensions.
+- Created tax, invoice, inventory, and operational reports.
 
-| Project | Work done / area of work |
-| :--- | :--- |
-| **Haven · Service Marketplace** | Service marketplace application development. |
-| **Console · Operations Dashboard** | Administrative dashboard development. |
-| **Studio · Consulting Website** | Consulting website development and presentation materials. |
-| **Identity · Personal Portfolio** | Personal portfolio web development. |
-| **Summit · Learning Experience Review** | Learning platform review, documentation, and demo preparation. |
-| **Motion · Fitness Web Workspace** | Fitness application exploration. |
-| **PriceLens · Retail Verification Prototype** | Retail application planning and prototype scaffolding. |
-| **Journal · Content Backend** | Content application backend development. |
+---
 
-### Learning & engineering foundations
+### 3. Procurement & Business Central Integration
 
-| Project | Work done / area of work |
-| :--- | :--- |
-| **Foundry · AL Practice Extension** | AL development exercises and test project setup. |
-| **Academy · Modular ERP Learning Lab** | Structured business application learning modules. |
-| **Launchpad · Full-Stack Starter** | Reusable full-stack development setup. |
-| **AccessKit · Permission Utility** | Business application permission utilities. |
-| **CheckPoint · Test Sandbox** | AL experiments and test exercises. |
-| **Pathfinder · Technical Preparation** | Technical learning and interview preparation. |
-| **Algorithms · C++ Practice** | Data structures and algorithm practice. |
+**Business Central SaaS · AL · HttpClient · JSON · APIs**
 
-<details>
-<summary><strong>Reference workspaces & supporting materials</strong></summary>
+- Implemented procurement integration and automated data exchange.
+- Mapped purchasing, supplier, inventory, and project data into ERP workflows.
+- Built AL tables, pages, codeunits, queries, XMLports, and report extensions.
+- Developed reporting and business process customizations supporting reconciliation and assembly operations.
 
-<br>
+---
 
-My local setup also includes upstream application source, an AL dependency-inspection MCP tool, scheduling and CMS reference checkouts, backend experiments, ERP customization workspaces, and user-guide materials.
+### 4. Payroll & Payslip Automation
 
-Reference checkouts are learning resources; I do not claim authorship of their upstream implementations. Duplicate copies, generated worktrees, and supporting document folders are grouped with their related projects.
+**Business Central · AL · RDLC · Job Queue · Email Integration**
 
-</details>
+- Developed monthly and yearly payslip generation with PDF reports.
+- Built salary management tables and pages for earnings, deductions, and payslip status.
+- Automated individual and bulk delivery of payslip attachments.
+- Configured scheduled processing and sent/error status tracking.
 
 ## 03 / How I build with Codex
 
