@@ -1,6 +1,10 @@
 <div align="center">
 
-![Dhiraj Singh — Business Central Technical Consultant](assets/profile-banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Dhiraj Singh — Business Central Technical Consultant; AL, integrations, reporting, and automation" width="1180">
+</picture>
 
 ### I build the integrations behind better business workflows.
 
@@ -113,3 +117,4 @@ Interested in **Business Central, ERP integrations, or workflow automation**?
 <sub>Business requirements → Thoughtful engineering → Useful software</sub>
 
 </div>
+
