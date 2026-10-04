@@ -26,9 +26,9 @@ My work combines AL development, APIs, data processing, reporting, and workflow 
 
 **Currently focused on** &nbsp; `ERP integrations` &nbsp; `Backend engineering` &nbsp; `AI developer tooling`
 
-## Four projects. Real engineering work.
+## Selected projects
 
-<sub>Based on my resume. Client and internal project names are anonymized.</sub>
+<sub>Based on my resumes. Client and internal project names are anonymized.</sub>
 
 ### 💳 Payment & Donation Compliance
 **Business Central SaaS / AL / APIs / XML**
@@ -70,6 +70,17 @@ Automated recurring payslip generation, distribution, and delivery tracking.
 - Automated individual and bulk email delivery with PDF attachments.
 - Scheduled monthly processing and tracked sent/error results for HR users.
 
+### 🏠 Full-Stack Service Marketplace
+**React / TypeScript / Node.js / Express / MongoDB / Docker / MCP**
+
+Built a platform connecting customers with service providers through booking and administrative workflows.
+
+- Designed a modular monorepo with separate application services and REST APIs.
+- Developed real-time booking with WebSockets, role-based access control, and an admin dashboard.
+- Built an MCP server exposing backend capabilities as structured tools for AI workflows.
+- Containerized applications and implemented CI/CD, monitoring, and centralized error logging.
+
+
 ---
 
 ## What I bring to a project
@@ -81,13 +92,16 @@ Business Central SaaS · AL extensions · Events · Permissions · Data migratio
 REST APIs · HttpClient · JSON · XML · CRM integration · Job Queue
 
 **Backend & web engineering**  
-JavaScript · TypeScript · Node.js · Express · React · MongoDB · SQL
+JavaScript · TypeScript · Node.js · Express · Bun · React · MongoDB · PostgreSQL · MySQL · SQL
 
 **Reporting & automation**  
 RDLC · Word layouts · Excel reports · Email integration · Workflow automation
 
 **AI & delivery tools**  
-Codex · Copilot · MCP · Git · GitHub · Docker · CI/CD · Postman
+Codex · Copilot · MCP · LLM integration · Tool calling · Prompt engineering · Git · GitHub · Docker · CI/CD · Postman
+
+**Additional foundations**  
+C/C++ · Data structures & algorithms · Linux · Kubernetes · RAG basics · AWS EC2/S3 basics
 
 ## From idea to implementation
 
