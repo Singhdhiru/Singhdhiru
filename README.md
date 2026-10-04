@@ -23,98 +23,97 @@
 
 ### Hello, I'm Dhiraj 👋
 
-I turn business requirements into **Business Central extensions, connected systems, and automated workflows**. My experience spans SaaS customization, CRM and payment integrations, procurement, reporting, and data migration.
+**Business Central Technical Consultant building connected ERP solutions.**
 
-I work from requirements analysis through implementation, troubleshooting, deployment support, and documentation. I also use **Codex, Copilot, and MCP tools** to support development and explore reusable engineering workflows.
+I translate business requirements into **AL extensions, reliable integrations, and automated workflows**. My experience covers Business Central SaaS customization, CRM and payment integration, procurement, payroll, reporting, and data migration.
 
-> **My focus:** useful integrations, maintainable AL code, and reporting that helps people do their work.
+From requirements analysis to deployment support, I focus on code that teams can maintain and workflows that users can understand. I use **Codex, Copilot, and MCP tools** to support implementation, investigation, and documentation.
+
+| 🧩 Extend | 🔗 Connect | ⚙️ Automate |
+| :--- | :--- | :--- |
+| AL business logic and ERP customization | CRM, payments, procurement, and APIs | Job Queues, reporting, and document delivery |
 
 ## Selected projects
 
-<sub>Four projects from my resume. Client and internal project names are anonymized.</sub>
+<sub>Four resume-based projects. Client and internal project names are anonymized.</sub>
 
-### 01 &nbsp; 💳 Payment & Donation Compliance Integration
+### 01 · 💳 Payment & Donation Compliance Integration
+> **From payment records to traceable donation claims.**
 
-**Connected payment, CRM, and ERP workflows for donation processing and compliance reporting.**
+**Business Central SaaS · AL · API Integration · XML · Reporting**
 
-`Business Central SaaS` `AL` `API Integration` `XML` `Reporting`
-
-- **Business logic:** developed donation validation, tax calculations, claim generation, and exception handling.
-- **Integration:** connected payment and CRM data with Business Central processing and reconciliation.
-- **Traceability:** implemented reversal processing and claim lifecycle tracking.
-- **Reporting:** created claim review, payment reconciliation, exception, and audit reports.
-
----
-
-### 02 &nbsp; 🔗 CRM & Business Central Integration
-
-**Connected customer and sales information across CRM and ERP operations.**
-
-`Business Central SaaS` `AL` `REST APIs` `Job Queue`
-
-- **Synchronization:** developed workflows for customers, sales orders, inventory, invoices, and shipments.
-- **Processing:** built API pages, staging tables, codeunits, and scheduled jobs.
-- **Customization:** extended sales, purchasing, inventory, and finance functionality.
-- **Reporting:** delivered tax, invoice, inventory, and operational reports.
+- **Claim processing:** developed donation eligibility validation, tax calculations, claim generation, exception handling, and reversals.
+- **Connected workflows:** mapped CRM donor, pledge, and payment information into Business Central donation processing.
+- **Payment reconciliation:** integrated payment records with validation and downstream claim workflows.
+- **Lifecycle visibility:** implemented claim tracking and submission-ready XML/API structures.
+- **Audit reporting:** created reports for claim review, payment reconciliation, exceptions, reversals, and audit summaries.
 
 ---
 
-### 03 &nbsp; 🏗️ Procurement & Business Central Integration
+### 02 · 🔗 CRM & Business Central Integration
+> **Customer and sales workflows connected across CRM and ERP.**
 
-**Integrated procurement data with purchasing, inventory, and project workflows.**
+**Business Central SaaS · AL · REST APIs · Job Queue · Localization**
 
-`Business Central SaaS` `AL` `HttpClient` `JSON` `APIs`
-
-- **Data exchange:** implemented procurement integration and automated synchronization.
-- **Mapping:** connected purchasing, supplier, inventory, and project information with ERP workflows.
-- **Extensibility:** developed tables, pages, codeunits, queries, XMLports, and report extensions.
-- **Operations:** built reporting and process customizations for reconciliation and assembly work.
+- **Operational synchronization:** developed customer, sales order, inventory, invoice, shipment, and short-close integration workflows.
+- **API processing:** built staging tables, API pages, AL codeunits, and scheduled Job Queue automation.
+- **ERP customization:** extended sales, purchasing, inventory, and finance using tables, pages, role centers, permission sets, and event subscribers.
+- **Business reporting:** developed tax invoices, registers, packing lists, supplier invoices, and inventory reports.
 
 ---
 
-### 04 &nbsp; 📄 Payroll & Payslip Automation
+### 03 · 🏗️ Procurement & Business Central Integration
+> **Procurement information connected with purchasing and project costing.**
 
-**Automated payslip generation and delivery inside Business Central.**
+**Business Central SaaS · AL · HttpClient · JSON · APIs · RDLC**
 
-`Business Central` `AL` `RDLC` `Job Queue` `Email Integration`
+- **Integration development:** implemented authenticated API communication, JSON processing, synchronization logs, and automated data exchange.
+- **Procurement flows:** mapped purchase orders, invoices, receipts, suppliers, items, and budget information into Business Central.
+- **Project workflows:** connected jobs, job tasks, and planning information with purchasing, inventory, warehouse, and project costing processes.
+- **AL extensibility:** developed tables, pages, codeunits, queries, XMLports, permissions, and report extensions.
+- **Operational improvements:** customized assembly processes and reporting to support reconciliation and business operations.
 
-- **Documents:** generated monthly and yearly payslips as PDF reports.
-- **Management:** created salary tables and pages for earnings, deductions, and payslip status.
-- **Delivery:** automated individual and bulk email delivery with PDF attachments.
-- **Scheduling:** configured recurring processing with sent/error status tracking.
+---
 
-## Toolkit
+### 04 · 📄 Payroll & Payslip Automation
+> **Recurring payroll documents generated, delivered, and tracked inside the ERP.**
 
-**Enterprise development**<br>
-Business Central SaaS · AL extensions · Tables & pages · Codeunits · Event subscribers · Permission sets
+**Business Central · AL · RDLC · Job Queue · Email Integration**
 
-**Integrations & automation**<br>
-REST APIs · Web services · HttpClient · JSON · XML · CRM integration · Job Queue · Data migration
+- **Payslip generation:** developed monthly and yearly RDLC reports with PDF output.
+- **Salary management:** built tables and pages for salary components, deductions, gross/net pay, tax deductions, and employee-wise payslip status.
+- **Email delivery:** automated individual and bulk payslip distribution with PDF attachments.
+- **Scheduled processing:** configured Job Queue automation for recurring monthly delivery.
+- **Delivery visibility:** tracked sent/error results to help HR users monitor processing.
 
-**Reporting**<br>
-RDLC · Word layouts · Excel reports · Financial & operational reporting
+## Engineering toolkit
 
-**Development tools**<br>
-Git · GitHub · VS Code · Postman · Docker · CI/CD · Codex · Copilot · MCP
+| Area | Skills & tools |
+| :--- | :--- |
+| **Business Central** | SaaS customization · AL extensions · Tables · Pages · Codeunits · Events · Permission sets |
+| **Integration** | REST APIs · Web services · HttpClient · JSON · XML · CRM integration · Data migration |
+| **Automation** | Job Queue · Workflows · Email integration · Automated testing |
+| **Reporting** | RDLC · Word layouts · Excel reports · Financial and operational reporting |
+| **Delivery & AI tools** | Git · GitHub · VS Code · Postman · Docker · CI/CD · Codex · Copilot · MCP |
 
 ## How I work
 
-**Understand the workflow → Design the integration → Build → Review → Validate → Document**
+**Requirements → Design → Implementation → Review → Validation → Handover**
 
-I use AI assistants to explore existing code, draft changes, investigate issues, and prepare documentation. I keep the business requirements and validation at the center of the process.
+- Understand the business process before choosing the technical approach.
+- Make integrations traceable with validation, status tracking, and useful reports.
+- Keep AL customizations maintainable and document the decisions that matter.
+- Use AI assistance alongside review and validation tied to the requirements.
 
 ---
 
 <div align="center">
 
-### Let's connect.
+### Let's build better business workflows.
 
-Interested in **Business Central, ERP integrations, or workflow automation**?
+**Business Central · ERP integrations · Reporting · Automation**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge)](https://www.linkedin.com/in/dhirajsingh730/)
 [![GitHub](https://img.shields.io/badge/Explore_my_repositories-182235?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhdhiru?tab=repositories)
 
-<sub>Business requirements → Thoughtful engineering → Useful software</sub>
-
 </div>
-
