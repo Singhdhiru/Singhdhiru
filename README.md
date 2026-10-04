@@ -3,13 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Dhiraj Singh — Business Central Technical Consultant; AL, integrations, reporting, and automation" width="1180">
+  <img src="./dark.svg" alt="Dhiraj Singh — AI Engineer, Full-Stack Engineer, Backend Systems, AI and SaaS Builder" width="1180">
 </picture>
 
 # Dhiraj Singh
 
-### Business Central Technical Consultant
-### Full-Stack Engineer · Backend Systems · AI & SaaS Builder
+### AI Engineer · Full-Stack Engineer · Backend Systems · AI & SaaS Builder
 
 **ERP expertise. Connected applications. Practical automation.**
 
